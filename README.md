@@ -5,3 +5,7 @@
 
 ## self-datasource-02
 * 使用aop动态切换
+
+## self-datasource-03
+* 不再切库,配置多套mybatis
+
