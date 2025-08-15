@@ -9,3 +9,6 @@
 ## self-datasource-03
 * 不再切库,配置多套mybatis
 
+## self-datasource-04
+* 使用dynamic-datasource框架切库
+
